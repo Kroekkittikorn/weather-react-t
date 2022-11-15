@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kroekkittikorn/effective-tribble.git/static/css/main.073c9b0a.css",
+    "main.js": "/Kroekkittikorn/effective-tribble.git/static/js/main.99c48eab.js",
+    "static/js/787.ca372706.chunk.js": "/Kroekkittikorn/effective-tribble.git/static/js/787.ca372706.chunk.js",
+    "index.html": "/Kroekkittikorn/effective-tribble.git/index.html",
+    "main.073c9b0a.css.map": "/Kroekkittikorn/effective-tribble.git/static/css/main.073c9b0a.css.map",
+    "main.99c48eab.js.map": "/Kroekkittikorn/effective-tribble.git/static/js/main.99c48eab.js.map",
+    "787.ca372706.chunk.js.map": "/Kroekkittikorn/effective-tribble.git/static/js/787.ca372706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99c48eab.js"
+  ]
+}
